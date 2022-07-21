@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello 👋🏻 
+My name is Brey Rivera, I'm a Data Science undergrad student @ Arcadia University.
+- 🦾 I'm currently learning Docker and Kubernetes
+- 🚀 Passionate about the areospace industry
+- 🖥 view my [portfolio](https://breyr.github.io/portfolio-site/)
+- 📱 contact me breyr2021@gmail.com
+
+
 
 <!--
 **breyr/breyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
