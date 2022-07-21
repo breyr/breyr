@@ -2,8 +2,8 @@
 My name is Brey Rivera, I'm a Data Science undergrad student @ Arcadia University.
 - 🦾 I'm currently learning Docker and Kubernetes
 - 🚀 Passionate about the areospace industry
-- 🖥 view my [portfolio](https://breyr.github.io/portfolio-site/)
-- 📱 contact me breyr2021@gmail.com
+- 🖥 View my [portfolio](https://breyr.github.io/portfolio-site/)
+- 📱 Contact me breyr2021@gmail.com
 
 
 
