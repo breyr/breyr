@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ I'm currently creating my first Flask API<br>🌊 I'm currently learning Data Structures & Algorithms<br>🔗 View my ![protfolio](https://breyrivera.com)
+🖥️ I'm currently creating my first Flask API<br>🌊 I'm currently learning Data Structures & Algorithms<br>🔗 View my ![portfolio](https://breyrivera.com)
 
 
 ## 🌐 Socials:
