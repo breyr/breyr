@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">📖 Currently reading <i>Grokking Algorithms</i><br>🌱 Learning Cloud Development and DSA<br>🔗 Check out my <a href="https://breyr.dev/">portfolio</a></h3>
+<h3 align="left">📖 Currently leanring DSA<br>🌱 Learning Cloud Development and DSA<br>🔗 Check out my <a href="https://breyr.dev/">portfolio</a></h3>
 
 ###
 
