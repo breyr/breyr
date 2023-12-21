@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🦈 Currently learning Next.js and Typescript<br>🦈 Check out my most recent project <a href="https://jobtrackr.breyr.dev">here</a><br>🦈  My <a href="https://breyr.dev">personal website</a>
+<p align="left">🦈 Currently learning Next.js and Typescript<br>🦈 Check out my most recent project <a href="https://jobtrackr.breyr.dev" target="_blank">here</a><br>🦈  My <a href="https://breyr.dev" target="_blank">personal website</a>
 
 ###
 
