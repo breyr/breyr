@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🦈 Currently learning Next.js and Typescript<br>🦈 Check out my most recent project <a href="https://jobtrackr.breyr.dev" target="_blank">here</a><br>🦈  My <a href="https://breyr.dev" target="_blank">personal website</a>
+<p align="left">🦈 Currently learning Svelte and C#<br>🦈 Check out my most recent project <a href="https://github.com/breyr/dpanel" target="_blank">here</a><br>🦈  My <a href="https://breyr.dev" target="_blank">personal website</a>
 
 ###
 
@@ -22,6 +22,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -46,6 +48,8 @@
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="40" alt="flask logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" height="40" alt="fastapi logo"  />
 </div>
 
 ###
@@ -65,9 +69,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" height="40" alt="jquery logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
   <img width="12" />
