@@ -80,6 +80,8 @@
   <img src="https://skillicons.dev/icons?i=planetscale" height="40" alt="planetscale logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
